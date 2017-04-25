@@ -1,4 +1,7 @@
-# test coverage for  [clone-org-repos (v0.2.5)](https://github.com/tegon/clone-org-repos)  [![npm package](https://img.shields.io/npm/v/npmtest-clone-org-repos.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clone-org-repos) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clone-org-repos.svg)](https://travis-ci.org/npmtest/node-npmtest-clone-org-repos)
+# npmtest-clone-org-repos
+
+#### basic test coverage for  [clone-org-repos (v0.2.5)](https://github.com/tegon/clone-org-repos)  [![npm package](https://img.shields.io/npm/v/npmtest-clone-org-repos.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-clone-org-repos) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-clone-org-repos.svg)](https://travis-ci.org/npmtest/node-npmtest-clone-org-repos)
+
 #### Clones a github organization repositories
 
 [![NPM](https://nodei.co/npm/clone-org-repos.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/clone-org-repos)
@@ -7,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-clone-org-repos/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-clone-org-repos/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-clone-org-repos/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-clone-org-repos/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-clone-org-repos/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-clone-org-repos/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-clone-org-repos/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-clone-org-repos/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-clone-org-repos/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-clone-org-repos/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-clone-org-repos/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-clone-org-repos/build/coverage.html/index.html)
 
